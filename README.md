@@ -1,4 +1,4 @@
-# 国内支付宝 / 微信如何开通 ChatGPT Plus？无需海外银行卡
+# 26年8月最新 GPT Plus 充值指南，GPT充值教程，GPTplus/GPTpro充值，国内支付宝 / 微信开通 ChatGPT会员，1-2分钟操作好，无需海外银行卡 
 
 很多国内用户想开通 ChatGPT Plus 时，会遇到几个比较麻烦的问题：
 
