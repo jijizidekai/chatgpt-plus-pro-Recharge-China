@@ -1,4 +1,4 @@
-# 26年8月17日最新 全网最低价 GPT Plus 充值教程，GPTPLUS 138元/月，Pro20x 1160/月|GPTplus/GPTpro充值，国内支付宝 / 微信开通 ChatGPT会员，无需海外银行卡 ，1-2分钟操作好
+# 26年8月20日最新 全网最低价 GPT Plus 充值教程，GPTPLUS 138元/月，Pro20x 1160/月|GPTplus/GPTpro充值，国内支付宝 / 微信开通 ChatGPT会员，无需海外银行卡 ，1-2分钟操作好
 
 本仓库提供的充值渠道为最低价的正规充值渠道。
 
