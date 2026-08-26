@@ -11,19 +11,7 @@
 | **GPT Pro 5x** | **660 元 / 月** |
 | **GPT Pro 20x** | **1150 元 / 月** |
 
-</td>
 
-<td width="45%" valign="top">
-
-### 🌐 充值入口
-
-**购买充值卡密**  
-👉 [CDK 购买网站](https://pay.ldxp.cn/shop/3F5YOW2H)
-
-**兑换充值**  
-👉 [充值兑换网站](https://plus.whh985.xyz/)
-
-</td>
 ---
 
 ### 🚀 **1-2min极速充值流程**：
