@@ -12,6 +12,28 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 兑换充值网站：[https://plus.whh985.xyz/](https://plus.whh985.xyz/)
 
 ### 💰 充值价格
+
+| 套餐 | 价格 |
+| :--- | :---: |
+| **GPT Plus** | **135 元 / 月** |
+| **GPT Pro 5x** | **660 元 / 月** |
+| **GPT Pro 20x** | **1150 元 / 月** |
+
+> **原理：**  
+> 提交充值请求后，后台会立即安排一张正规的 **Visa / Mastercard** 绑定到您的账户，并使用外币完成支付。  
+>
+> 银行卡 **一卡一绑**，无黑卡。整个过程通常约 **1–2 分钟**，完成后会员即可到账。
+
+---
+
+### 🚀 详细流程
+
+> 在 [**CDK 购买网站**](https://pay.ldxp.cn/shop/3F5YOW2H) 下单后，页面会根据当前步骤自动提供详细操作指引。通常只需要按照页面提示逐步操作即可。
+>
+> #### 👉 [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
+
+
+### 💰 充值价格
 - **GPT Plus：135 元 / 月**
 - **GPT Pro 5x：660 元 / 月**
 - **GPT Pro 20x：1150 元 / 月**
