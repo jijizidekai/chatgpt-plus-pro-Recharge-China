@@ -2,7 +2,10 @@
 
 此方案**不需要个人开卡**，使用可靠的**一键式充值网站**进行直接充值。 
 
-### **1-2min极速充值流程**：
+---
+
+### 🚀 **1-2min极速充值流程**：
+
 在 [CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H) 购买兑换码，下单后会一直有指引，按照指引到 [兑换网址](https://plus.whh985.xyz/) 兑换就好。 
 
 [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
