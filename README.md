@@ -48,8 +48,7 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 
 ---
 
-## ❓ 常见问题 Q & A
-
+<h2>❓ 常见问题 Q & A</h2>
 
 <table>
   <thead>
@@ -162,7 +161,6 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 
   </tbody>
 </table>
-
 如果是放在 GitHub 首页，我其实更建议下一步把它拆成 “充值与价格 / 安全与风控 / 账号与会员 / 售后与其他”四张独立表格。这样不会出现现在这种第三列特别长、整张表横向很挤的问题，而且我可以继续保证你
 ---
 
