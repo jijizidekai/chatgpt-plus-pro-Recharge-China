@@ -3,7 +3,10 @@
 此方案**不需要个人开卡**，使用可靠的**一键式充值网站**进行直接充值。 
 
 ### **精简版流程**：
-在 [CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H) 购买兑换码，到发给您的 [兑换网址](https://plus.whh985.xyz/) 兑换就好，无多余操作。 
+在 [CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H) 购买兑换码，下单后会一直有指引，按照指引到 [兑换网址](https://plus.whh985.xyz/) 兑换就好。 
+### 🚀 详细流程： 
+#### 👉 [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
+
 
 ### 🌐 所用网址
 
@@ -25,12 +28,6 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 > 银行卡 **一卡一绑**，无黑卡。整个过程通常约 **1–2 分钟**，完成后会员即可到账。
 
 ---
-
-### 🚀 详细流程
-
-> 在 [**CDK 购买网站**](https://pay.ldxp.cn/shop/3F5YOW2H) 下单后，页面会根据当前步骤自动提供详细操作指引。通常只需要按照页面提示逐步操作即可。
->
-> #### 👉 [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
 
 
 ### 💰 充值价格
