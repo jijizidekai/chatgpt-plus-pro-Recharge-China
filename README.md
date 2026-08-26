@@ -9,7 +9,7 @@
 
 在 [CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H) 购买兑换码，下单后会一直有指引，按照指引到 [兑换网址](https://plus.whh985.xyz/) 兑换就好。 
 
-![Uploading 63093761-d6f2-4785-b79e-b328064eeb43.png…]()
+<img width="1794" height="877" alt="63093761-d6f2-4785-b79e-b328064eeb43" src="https://github.com/user-attachments/assets/3d129fcd-aa5e-4041-8f49-336fd0eb6120" />
 
 
 [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
