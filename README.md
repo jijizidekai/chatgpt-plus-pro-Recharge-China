@@ -35,6 +35,10 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 > #### [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
 
 
+
+---
+
+
 > **原理：**
 > 
 > 提交充值请求后，后台会立即安排一张正规的 **Visa / Mastercard** 绑定到您的账户，并使用外币完成支付。
