@@ -22,9 +22,9 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 银行卡**一卡一绑**，无黑卡，真正零风险。整个过程大约**1-2分钟**，完成后会员立即到账。 
 
 ### 详细流程：
-在[CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H)下单后，每一步都会跳转到详细的指引。
+在[CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H)下单后，每一步都会跳转到详细的指引。通常只需要按指引即可。
 
-预览整个流程：[https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
+详细图文教程：[https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
 
 ---
 
