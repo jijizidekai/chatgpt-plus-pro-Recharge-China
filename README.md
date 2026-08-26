@@ -10,6 +10,12 @@
 
 [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/CqOcwrnXCizRYKkkvFuciFrEnJf?from=from_copylink)
 
+> **原理：**  
+> 提交充值请求后，后台会立即安排一张正规的 **Visa / Mastercard** 绑定到您的账户，并使用外币完成支付。  
+>
+> 银行卡 **一卡一绑**，无黑卡。整个过程通常约 **1–2 分钟**，完成后会员即可到账。
+
+
 ---
 
 
@@ -27,10 +33,6 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 | **GPT Pro 5x** | **660 元 / 月** |
 | **GPT Pro 20x** | **1150 元 / 月** |
 
-> **原理：**  
-> 提交充值请求后，后台会立即安排一张正规的 **Visa / Mastercard** 绑定到您的账户，并使用外币完成支付。  
->
-> 银行卡 **一卡一绑**，无黑卡。整个过程通常约 **1–2 分钟**，完成后会员即可到账。
 
 ---
 
