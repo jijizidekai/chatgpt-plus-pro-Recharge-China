@@ -5,51 +5,11 @@
 ---
 ### 💰 充值价格
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h2>💰 充值价格</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>套餐</th>
-            <th>价格</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>GPT Plus</b></td>
-            <td><b>135 元 / 月</b></td>
-          </tr>
-          <tr>
-            <td><b>GPT Pro 5x</b></td>
-            <td><b>660 元 / 月</b></td>
-          </tr>
-          <tr>
-            <td><b>GPT Pro 20x</b></td>
-            <td><b>1150 元 / 月</b></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-
-    <td width="45%" valign="top">
-      <h2>🌐 充值入口</h2>
-
-      <p>
-        <b>购买充值卡密</b><br><br>
-        👉 <a href="https://pay.ldxp.cn/shop/3F5YOW2H"><b>CDK 购买网站</b></a>
-      </p>
-
-      <br>
-
-      <p>
-        <b>兑换充值</b><br><br>
-        👉 <a href="https://plus.whh985.xyz/"><b>充值兑换网站</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+| 套餐 | 价格 |
+| :--- | :---: |
+| **GPT Plus** | **135 元 / 月** |
+| **GPT Pro 5x** | **660 元 / 月** |
+| **GPT Pro 20x** | **1150 元 / 月** |
 
 
 ---
