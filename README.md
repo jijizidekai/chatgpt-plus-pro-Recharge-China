@@ -1,10 +1,21 @@
 # 26年8月26日最新 全网最低价 GPT Plus 充值教程，GPTPLUS 135元/月，Pro20x 1150/月|GPTplus/GPTpro充值，国内支付宝 / 微信开通 ChatGPT会员，无需海外银行卡 ，1-2分钟操作好
 
-本仓库提供一种使用支付宝/微信，简单快捷，百分百可靠，零风险的充值方法：
+0本方案无需自己申请 Visa / Mastercard，也无需购买海外礼品卡。
 
-## 🌐 充值网址
+购买对应套餐的 CDK 兑换码 后，进入充值页面按照提示操作即可。
 
-👉 **[点击进入充值网站](https://pay.ldxp.cn/shop/3F5YOW2H)**
+当前价格
+套餐	价格
+ChatGPT Plus	135 元 / 月
+ChatGPT Pro 5x	660 元 / 月
+ChatGPT Pro 20x	1150 元 / 月
+
+## 🌐 所用网址
+
+**[CDK 购买网址](https://pay.ldxp.cn/shop/3F5YOW2H)**
+
+**[充值兑换网址](https://plus.whh985.xyz/)**
+
 
 ---
 
