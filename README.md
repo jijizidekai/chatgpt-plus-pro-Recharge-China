@@ -14,6 +14,16 @@
 
 ---
 
+### 🌐 充值网址
+
+CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/3F5YOW2H) 
+
+兑换充值网站：[https://plus.whh985.xyz/](https://plus.whh985.xyz/)
+
+
+---
+
+
 ### 🚀 **1-2min极速充值流程**：
 
 
@@ -29,16 +39,6 @@
 > 提交充值请求后，后台会立即安排一张正规的 **Visa / Mastercard** 绑定到您的账户，并使用外币完成支付。
 > 
 > 银行卡 **一卡一绑**，无黑卡。整个过程通常约 **1–2 分钟**，完成后会员立即到账。
-
-
----
-
-
-### 🌐 所用网址
-
-CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/3F5YOW2H) 
-
-兑换充值网站：[https://plus.whh985.xyz/](https://plus.whh985.xyz/)
 
 
 ---
