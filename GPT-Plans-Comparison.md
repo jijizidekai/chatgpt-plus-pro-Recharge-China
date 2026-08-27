@@ -164,54 +164,8 @@ Plus 是个人套餐中比较均衡的一档：价格远低于 Pro，同时已�
 
 ---
 
-## ⚠️ 常见误区
 
-### 1. ChatGPT 订阅 ≠ OpenAI API
 
-购买 Free、Go、Plus、Pro 或 Business **不会自动获得 API 套餐额度**。
-
-ChatGPT 与 OpenAI API 属于不同的产品与计费体系，API 通常需要单独开通并按 API 使用量计费。
-
-### 2. “无限”不等于完全没有限制
-
-即使某些功能标注为 unlimited / unlimited everyday chats，也通常仍受到：
-
-- 防滥用机制
-- 公平使用政策
-- 单独模型限额
-- 高峰期临时限制
-- 工具独立额度
-
-影响。
-
-### 3. 不要把模型名称和套餐名称混在一起
-
-例如：
-
-- **Plus** 是订阅套餐
-- **GPT-5.6 Sol** 是模型
-- **GPT-5.6 Sol Pro** 是更高能力模型选项
-- **Pro** 同时也是 ChatGPT 的订阅档位名称
-
-它们不是同一个概念。
-
-### 4. 功能会动态变化
-
-OpenAI 会持续调整：
-
-- 模型
-- 推理档位
-- 消息限制
-- Codex
-- Deep Research
-- Voice
-- Image Generation
-- Credits
-- Business 席位
-
-因此如果你看到账号中的实际功能与本文略有不同，应以 ChatGPT 内显示和 OpenAI 最新官方说明为准。
-
----
 
 ## 📌 最简版结论
 
@@ -222,7 +176,7 @@ Free
 
 Go
 ↓
-便宜的大额度日常版
+便宜的轻量级套餐
 
 Plus
 ↓
@@ -236,13 +190,6 @@ Pro 20×
 ↓
 Pro 能力 + 约 20× Plus 用量，个人最高用量档
 
-Business
-↓
-团队协作 + 管理 + 企业数据保护
-
-Enterprise
-↓
-大型企业 + 合规 + 安全 + 定制
 ```
 
 ---
