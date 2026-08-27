@@ -10,7 +10,8 @@
 | **GPT Plus** | **135 元 / 月** |
 | **GPT Pro 5x** | **660 元 / 月** |
 | **GPT Pro 20x** | **1150 元 / 月** |
-[查看 GPT 各套餐权益完整对比](./GPT-Plans-Comparison.md)
+
+关于如何选择套餐：[点击查看 GPT 各套餐权益完整对比](./GPT-Plans-Comparison.md)
 
 
 ---
