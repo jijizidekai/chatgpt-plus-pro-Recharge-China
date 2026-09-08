@@ -18,7 +18,7 @@
 
 ### 🌐 充值网址
 
-CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/3F5YOW2H) 
+CDK 购买网站：[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H)
 
 兑换充值网站：[https://plus.whh985.xyz/](https://plus.whh985.xyz/)
 
@@ -29,7 +29,7 @@ CDK 购买网站：[https://pay.ldxp.cn/shop/3F5YOW2H](https://pay.ldxp.cn/shop/
 ### 🚀 **1-2min极速充值流程**：
 
 
-在 [CDK购买网站](https://pay.ldxp.cn/shop/3F5YOW2H) 购买兑换码CDK，下单后会一直有指引，按照指引到 [兑换网址](https://plus.whh985.xyz/) 兑换CDK就好。 
+在 [CDK购买网站](https://wzyp.cn/shop/3F5YOW2H) 购买兑换码CDK，下单后会一直有指引，按照指引到 [兑换网址](https://plus.whh985.xyz/) 兑换CDK就好。 
 
 <img width="1794" height="877" alt="63093761-d6f2-4785-b79e-b328064eeb43" src="https://github.com/user-attachments/assets/3d129fcd-aa5e-4041-8f49-336fd0eb6120" />
 
