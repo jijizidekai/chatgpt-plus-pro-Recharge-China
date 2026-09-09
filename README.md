@@ -80,7 +80,7 @@ CDK 购买网站：[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H
 ### 1. 💰 价格实惠
 
 - **GPT Plus：135 元 / 月**
-- **GPT Pro 5x：655 元 / 月**
+- **GPT Pro 5x：660 元 / 月**
 - **GPT Pro 20x：1140 元 / 月**
 
 相比自行购买礼品卡、虚拟卡等方式，可以省去手续费以及开卡成本。
