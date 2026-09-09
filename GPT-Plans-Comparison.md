@@ -14,8 +14,8 @@
 | **Free**    |          **$0** | GPT-5.6 Luna                                        | ✅ Think（Luna）                | 基础             | 偶尔使用、轻度问答        |
 | **Go**      | **$8/月** | GPT-5.6 Luna                                        | ✅ Think（Luna）                | 高于 Free        | 日常高频聊天、低成本升级     |
 | **Plus**    |       **$20/月** | ⚡ **GPT-6 Astra**（Work / Codex 逐步开放）<br>GPT-5.6 Sol | ✅ Medium / High              | 明显高于 Go        | 学习、办公、科研、编程、内容创作 |
-| **Pro 5×**  |      **$100/月** | ✅ **GPT-6 Pro**<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol   | ✅ Medium / High / Extra High | **约 Plus 5×**  | 重度个人用户、专业工作流     |
-| **Pro 20×** |      **$200/月** | ✅ **GPT-6 Pro**<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol   | ✅ Medium / High / Extra High | **约 Plus 20×** | 极高频专业使用、追求最高额度   |
+| **Pro 5×**  |      **$100/月** | ✅ **GPT-6 Pro**<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol   | ✅ Medium / High / Extra High | **约 5倍 Plus**  | 重度个人用户、专业工作流     |
+| **Pro 20×** |      **$200/月** | ✅ **GPT-6 Pro**<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol   | ✅ Medium / High / Extra High | **约 20倍 Plus** | 极高频专业使用、追求最高额度   |
 
 
 
