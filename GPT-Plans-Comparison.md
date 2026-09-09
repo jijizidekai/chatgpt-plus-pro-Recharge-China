@@ -9,13 +9,14 @@
 👉 **[便捷国内 ChatGPT Plus / Pro 充值入口](https://pay.ldxp.cn/shop/3F5YOW2H)**
 ## 🚀 一张表看懂各套餐
 
-| 套餐 | 官方参考价格* | 核心模型 | 高级推理 | Pro / GPT-6 能力 | 综合用量 | 更适合 |
-| --- | ---: | --- | --- | --- | --- | --- |
-| **Free** | **$0** | GPT-5.6 Luna | ✅ Think（Luna） | ❌ | 基础 | 偶尔使用、轻度问答 |
-| **Go** | **$8/月**（美国参考价） | GPT-5.6 Luna | ✅ Think（Luna） | ❌ | 高于 Free | 日常高频聊天、低成本升级 |
-| **Plus** | **$20/月** | **GPT-5.6 Sol** | ✅ Medium / High | ⚡ GPT-6 Astra（Work / Codex 逐步开放） | 明显高于 Go | 学习、办公、科研、编程、内容创作 |
-| **Pro 5×** | **$100/月** | **GPT-5.6 Sol** | ✅ Medium / High / Extra High | ✅ GPT-5.6 Pro / GPT-6 Pro | **约 Plus 5×** | 重度个人用户、专业工作流 |
-| **Pro 20×** | **$200/月** | **GPT-5.6 Sol** | ✅ Medium / High / Extra High | ✅ GPT-5.6 Pro / GPT-6 Pro | **约 Plus 20×** | 极高频专业使用、追求最高额度 |
+| 套餐          |         官方参考价格* | 模型能力                                                | 高级推理                         | 综合用量           | 更适合              |
+| ----------- | --------------: | --------------------------------------------------- | ---------------------------- | -------------- | ---------------- |
+| **Free**    |          **$0** | GPT-5.6 Luna                                        | ✅ Think（Luna）                | 基础             | 偶尔使用、轻度问答        |
+| **Go**      | **$8/月**（美国参考价） | GPT-5.6 Luna                                        | ✅ Think（Luna）                | 高于 Free        | 日常高频聊天、低成本升级     |
+| **Plus**    |       **$20/月** | ⚡ **GPT-6 Astra**（Work / Codex 逐步开放）<br>GPT-5.6 Sol | ✅ Medium / High              | 明显高于 Go        | 学习、办公、科研、编程、内容创作 |
+| **Pro 5×**  |      **$100/月** | ✅ **GPT-6 Pro**<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol   | ✅ Medium / High / Extra High | **约 Plus 5×**  | 重度个人用户、专业工作流     |
+| **Pro 20×** |      **$200/月** | ✅ **GPT-6 Pro**<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol   | ✅ Medium / High / Extra High | **约 Plus 20×** | 极高频专业使用、追求最高额度   |
+
 
 
 \* 价格为 OpenAI 官方公开参考价格，实际结算可能因国家/地区、税费、币种、订阅渠道或促销而不同。Go 的 $8/月为美国参考价。Business 通常至少需要 2 个付费席位。
