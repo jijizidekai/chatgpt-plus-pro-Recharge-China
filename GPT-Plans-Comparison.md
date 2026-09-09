@@ -79,22 +79,7 @@ ChatGPT 在 **网页端聊天（Chat）**、**ChatGPT Work** 和 **Codex** 中�
 
 ---
 
-## 💻 Codex：不同套餐有什么区别？
 
-GPT-5.6 在 Codex 中的模型可用范围目前大致为：
-
-| 套餐                        | Codex 模型可用范围                                   |
-| ------------------------- | ---------------------------------------------- |
-| **Free / Go**             | **GPT-5.6 Terra**                              |
-| **Plus**                  | ⚡ **GPT-6 Astra**（逐步开放）、GPT-5.6 Sol、Terra、Luna |
-| **Pro 5× / Pro 20×**      | ✅ **GPT-6 Astra**、GPT-5.6 Sol、Terra、Luna       |
-
-
-对于需要大量编程、代码审查、Agent 工作流或长时间 Coding 的用户，**Plus 是比较实用的起点**；高频使用则更适合 Pro。
-
-> Codex 的具体使用额度会随套餐和 OpenAI 当前政策变化。部分额外使用量可以通过 Credits 继续购买。
-
----
 
 ## 🎨 ChatGPT 图像生成套餐对比
 
