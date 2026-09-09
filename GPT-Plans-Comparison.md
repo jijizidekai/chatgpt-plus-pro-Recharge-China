@@ -77,8 +77,8 @@ Plus 是个人用户从日常使用升级到专业生产力场景的主流档位
 Pro 在 Plus 的基础上进一步提供：
 
 * **Extra High** 推理强度
-* **GPT-5.6 Sol Pro**
 * **GPT-6 Pro**
+* **GPT-5.6 Sol Pro**
 * 更高的 ChatGPT 综合使用额度
 * 更高强度的 Coding / Codex 使用
 * 更适合深度研究与复杂分析
