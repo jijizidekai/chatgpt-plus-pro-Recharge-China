@@ -6,7 +6,7 @@
 
 ---
 ## 国内充值入口：
-👉 **[便捷国内 ChatGPT Plus / Pro 充值入口](https://pay.ldxp.cn/shop/3F5YOW2H)**
+👉 **[便捷国内 ChatGPT Plus / Pro 充值入口](https://wzyp.cn/shop/3F5YOW2H)**
 ## 🚀 一张表看懂各套餐
 
 | 套餐          |         官方参考价格* | 模型能力                                                | 高级推理                         | 综合用量           | 更适合              |
